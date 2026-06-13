@@ -6,21 +6,21 @@ Upload any image and get instant AI analysis in **English or Urdu** — making A
 
 ---
 
-## 🎥 Demo Video
+##  Demo Video
 👉 https://youtu.be/PjY83JQadJE
 
-## 📱 Social Posts
-- 🐦 X (Twitter): https://x.com/ZohaibAhmedMah2/status/2065881255384957242
-- 💼 LinkedIn: https://www.linkedin.com/posts/zuhaib-ahmed-69951a39a_smart-photo-analyzer-a-hugging-face-space-activity-7471645392414138368-u6tX
+## Social Posts
+-  X (Twitter): https://x.com/ZohaibAhmedMah2/status/2065881255384957242
+-    LinkedIn: https://www.linkedin.com/posts/zuhaib-ahmed-69951a39a_smart-photo-analyzer-a-hugging-face-space-activity-7471645392414138368-u6tX
 
 ---
 
-## 🚀 Try it Live
+## Try it Live
 👉 https://huggingface.co/spaces/zuhaibahmed7/smart-photo-analyzer
 
 ---
 
-## 💡 What It Does
+## What It Does
 
 Upload any photo and choose what you want to know:
 
@@ -33,7 +33,7 @@ Then instantly **translate the result to Urdu** with one click — no re-analyzi
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Component | Details |
 |---|---|
@@ -45,7 +45,7 @@ Then instantly **translate the result to Urdu** with one click — no re-analyzi
 
 ---
 
-## 🎯 Why This Matters
+## Why This Matters
 
 Most AI tools only work in English. This app serves **Urdu-speaking users** across Pakistan, India, and beyond — making powerful vision AI accessible to communities that are currently left out of the AI revolution.
 
@@ -53,11 +53,11 @@ A farmer can photograph a diseased crop. A shopkeeper can read a receipt. A pati
 
 ---
 
-## 🏆 Hackathon Tracks & Awards Targeting
+##  Hackathon Tracks & Awards Targeting
 
-- 🏡 **Backyard AI** — solving real problems for real people
-- 🟠 **OpenBMB Award** — powered by a sub-4B vision model
-- 🤏 **Tiny Model Award** — Qwen2-VL at only 2B parameters
+- **Backyard AI** — solving real problems for real people
+- **OpenBMB Award** — powered by a sub-4B vision model
+- **Tiny Model Award** — Qwen2-VL at only 2B parameters
 
 ---
 
