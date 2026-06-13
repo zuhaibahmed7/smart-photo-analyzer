@@ -1,25 +1,3 @@
-[README (1).md](https://github.com/user-attachments/files/28917852/README.1.md)
----
-title: Smart Photo Analyzer
-emoji: 📷
-colorFrom: yellow
-colorTo: yellow
-sdk: gradio
-sdk_version: 6.17.3
-app_file: app.py
-pinned: true
-tags:
-  - gradio
-  - image-analysis
-  - vision
-  - urdu
-  - multilingual
-  - qwen2-vl
-  - openbmb
-  - backyard-ai
-  - build-small-hackathon
----
-
 # 📷 Smart Photo Analyzer
 
 > **Build Small Hackathon 2026** — Backyard AI Track + OpenBMB Award + Tiny Model Award
