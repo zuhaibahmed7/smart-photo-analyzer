@@ -1,0 +1,9 @@
+gradio==6.17.3
+transformers>=4.40.0
+torchvision
+Pillow
+torch
+accelerate
+qwen-vl-utils
+spaces
+sentencepiece
