@@ -27,7 +27,6 @@ Upload any photo and choose what you want to know:
 - 🔍 **General Description** — detailed description of anything in the image
 - 🧾 **Read Text / Receipt** — extract all text, read receipts and invoices
 - 🌿 **Identify Plant / Food** — identify crops, plants, food and their condition
-- 📄 **Explain Document** — summarize any document or form
 - 🩺 **Health / Medical Image** — describe medical images in simple terms
 
 Then instantly **translate the result to Urdu** with one click — no re-analyzing needed.
